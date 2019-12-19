@@ -29,4 +29,4 @@ app.get('/', (req, res) => {
         res.send('Error! ' + err)
     });
 })
-.listen(8080, () => console.log('Listening on 8080!'));
+.listen(80, () => console.log('Listening on 80!'));
