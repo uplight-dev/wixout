@@ -1,5 +1,7 @@
 # wixout
 
+Removes the wix.com premium ads banner, if present.
+
 ## How to deploy
 
 ```
